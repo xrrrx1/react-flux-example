@@ -4,4 +4,4 @@
 
 ### npm build - for bundle
 
-### Go to http://localhost:3000/
+### Go to http://localhost:5050/
